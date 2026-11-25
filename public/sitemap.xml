@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://noormedical-demo.example.pk/</loc><priority>1.0</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/about</loc><priority>0.8</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/departments</loc><priority>0.9</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/doctors</loc><priority>0.9</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/appointment</loc><priority>0.9</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/patient-info</loc><priority>0.7</priority></url>
+  <url><loc>https://noormedical-demo.example.pk/contact</loc><priority>0.8</priority></url>
+</urlset>

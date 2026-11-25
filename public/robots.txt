@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Fictional Healthcare Portfolio Demo - Noor Medical & Diagnostic Centre
+Sitemap: https://noormedical-demo.example.pk/sitemap.xml
